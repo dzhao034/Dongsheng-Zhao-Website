@@ -1,6 +1,7 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Dongsheng Zhao Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+> This is an template website of my resume. [Dongsheng Zhao Resume](https://bb9a9ad9ce404259b22748da3cd11b1b.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html).
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+ ![Here is my screenshot of my website](img/image5.jpg)
+ 
